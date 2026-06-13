@@ -1,4 +1,4 @@
-# Opelite Data Alchemy Engine
+# Opalite Data Alchemy Engine
 
 Welcome to the official download page for the Opelite Data Alchemy Engine.
 
